@@ -20,3 +20,19 @@ I use repl.it while waiting for my Linux subsystem. Learn about string functions
 *Total time Spent so far: 3 hours*
 
 --- 
+
+### 22 September 2020
+Guess what? yeah, internet stucks. This is the second time this happened. To prevent it further, I'll be setting up most of my essential for offline use. That includes Spotify playlist, documentation, etc. The point is, internet access should not hinder me from doing progress.
+
+Fucking internet get in my nerves. Fuck you. I will not be discouraged by you. I'll learn straight from ruby lang documentation.
+
+I learn several things today:
+- attr_accessor
+- that my internet provider apply transparent proxy, blocking vscode installing any extension. Vpn save the day as always
+- Class and instance initialization
+- Connect VSCode with WSL via terminal
+- Connect Github to VSCode & Win 10
+
+**Next: continue learn ruby from video**
+
+*Total time spent so far: 5.5 hours*
