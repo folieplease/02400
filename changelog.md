@@ -1,4 +1,4 @@
-# Changelog 
+# Changelog
 I hope this journal will be useful for whoever out there willing to learn Ruby on Rails from scratch. There is never too late to learn to code.
 
 ### 21 September 2020
@@ -36,3 +36,19 @@ I learn several things today:
 **Next: continue learn ruby from video**
 
 *Total time spent so far: 5.5 hours*
+
+---
+
+### 28 September 2020
+How did time slips by? I thought it's been merely days since I last do progress. Turns out it's a week already.
+
+- Refresh on numbers function
+- Refresh on comparison operator
+- Refresh on methods
+- Refresh on branching (if, else)
+- Arrays, including how to mutate the array permanently (using bangs), push and pop
+- Ruby hashes
+
+**Next: continue learn ruby from video, and browse through array and hasheh public function**
+
+*Total time spent so far: 7.75 hours*
