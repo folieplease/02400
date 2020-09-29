@@ -52,3 +52,18 @@ How did time slips by? I thought it's been merely days since I last do progress.
 **Next: continue learn ruby from video, and browse through array and hasheh public function**
 
 *Total time spent so far: 7.75 hours*
+
+---
+
+### 29 September 2020
+Creating very basic authentication method from scratch, with faux database using combination of array and hashes. Full reference from [Ruby doc](https://ruby-doc.org/).
+Also learn about Ruby style guide:
+- snake_case for variables and methods
+- 2 spaces for indentation
+- CamelCase for class name (ALL words are capitalized in Ruby)
+
+**Next: continue lesson, and casually read Ruby style guide**
+
+*Total time spent so far: 10.00 hours*
+
+---
