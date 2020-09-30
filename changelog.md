@@ -73,5 +73,6 @@ Consuming side topic: choosing between Vue, React, and Angular as frontend frame
 - Learn OOP
 - attr_accessor, attr_reader, attr_writer
 - class initialization
+- Bcrypt
 
-*Total time spent so far: 12 hours*
+*Total time spent so far: 12.5 hours*
