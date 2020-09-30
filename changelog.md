@@ -67,3 +67,11 @@ Also learn about Ruby style guide:
 *Total time spent so far: 10.00 hours*
 
 ---
+
+### 30 September 2020
+Consuming side topic: choosing between Vue, React, and Angular as frontend framework. Decided that it's about what I feel the most comfortable, and that's React for me.
+- Learn OOP
+- attr_accessor, attr_reader, attr_writer
+- class initialization
+
+*Total time spent so far: 12 hours*
